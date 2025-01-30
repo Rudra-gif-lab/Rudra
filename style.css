@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 40px ; 
+}
+
+.mar-1 {
+    border: 6px solid black;
+    margin: 20px;
+    padding: 20px;
+    color: green;
+    background-color:chocolate;
+}
+
+.mar-2 {
+    border: 6px solid aqua;
+    margin: 20px;
+    padding: 20px;
+    color: purple;
+    background-color: teal;
+}
+
+.mar-3 {
+    border: 6px solid red;
+    margin: 20px;
+    padding: 20px;
+    color: deeppink;
+    background-color: navy;
+}
